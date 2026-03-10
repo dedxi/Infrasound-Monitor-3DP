@@ -1,4 +1,4 @@
-# Infrasound-Monitor
+# Infrasound-Monitor-3DP
 Low cost infrasound monitor using i2c digital differential pressure sensor - updated with 3D printed enclosure and other parts.
 
 This fork of starfishprime101's project intends to refresh the build instructions and BOM for the electronics, and include 3D printable design files for enclosures and other parts where possible.  The goal is to lower the project cost and difficulty for anyone with access to a 3D printer.
