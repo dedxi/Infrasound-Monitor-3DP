@@ -6,9 +6,9 @@
 #device = ICP10125()
 
 import os
-import smbus
+import smbus2 as smbus
 
-home_directory = '/home/geophysics'
+home_directory = '/home/ian/GeoPhysics'
 # replace with home directory of application
 
 

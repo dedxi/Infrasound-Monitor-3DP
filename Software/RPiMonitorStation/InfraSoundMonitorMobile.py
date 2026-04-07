@@ -10,7 +10,7 @@
 #
 #---------------------------ooo0ooo---------------------------
 
-import smbus
+import smbus2 as smbus
 import time
 import os
 import gc
